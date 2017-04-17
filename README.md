@@ -12,7 +12,7 @@ If you have any questions or would like to get in touch with the project, please
 
 ## Community Support Forum
 
-See a real live [Community Support](https://github.com/WinwiseRub/DPM/issue) Also, get your questions answered by the YAF community.
+See a real live [Community Support](https://github.com/WinwiseRub/DPM/issues) Also, get your questions answered by the YAF community.
 
 ## License
 
